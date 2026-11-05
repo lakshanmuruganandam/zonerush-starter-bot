@@ -15,7 +15,7 @@ You write one Python function, `act(state)`. Every turn it receives the whole bo
 3. Sign up on the arena with the invite code you were given, then upload the file under **My bots**.
 4. Your bot plays 1 check game, then 12 placement games, then joins the ranked ladder.
 
-Arena: **https://strategybot-arena.vercel.app/zonerush/**
+The arena link is shared by the organisers.
 
 ---
 
